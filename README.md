@@ -13,3 +13,6 @@ This project analyzes Fitbit device data to uncover trends in user activity, sle
 - Heart rates are lowest during sleep and peak in the morning due to workouts.
 - Sedentary minutes are high on weekdays, suggesting the need for workplace wellness programs.
 
+## Data File:
+Remaining dataset -> https://github.com/PoorabCode/Fitbit-Data-Analysis/releases/tag/v1.0
+
